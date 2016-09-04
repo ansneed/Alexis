@@ -1,0 +1,17 @@
+/*html, body {margin: 0; height: 100%; overflow: hidden}*/
+.box {
+	background-color: red;
+	height:90vh;
+	margin:auto;
+	-vendor-animation-duration: .5s;
+    -vendor-animation-iteration-count: 1;
+	/*position: absolute;*/
+}
+
+.box > p {
+    font-size:24px;
+    white-space:normal;
+	/*position:absolute;*/
+}
+
+
